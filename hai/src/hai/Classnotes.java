@@ -8,7 +8,7 @@ public class Classnotes {
 		String name="sree";
 		//printed ch
 		System.out.println(ch);
-		//printed name
+		//printed nam
 		System.out.println(name);
 		//System.out.println(a);
 
