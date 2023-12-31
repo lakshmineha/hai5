@@ -6,7 +6,9 @@ public class Classnotes {
 		// TODO Auto-generated method stub
 		char ch='g';
 		String name="sree";
+		//printed ch
 		System.out.println(ch);
+		//printed name
 		System.out.println(name);
 		//System.out.println(a);
 
