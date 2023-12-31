@@ -13,7 +13,9 @@ byte bt;
 		char ch='g';
 		String name="sree";
 		System.out.println(ch);
+		
 		System.out.println(name);
+		//printed a
 		System.out.println(a);
 		
 	
