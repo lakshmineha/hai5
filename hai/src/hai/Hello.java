@@ -19,8 +19,9 @@ byte bt;
 		//printed name
 
 		System.out.println(name);
-		//printed a
+		//printed 
 		System.out.println(a);
+		//printed d
 		
 	
 
